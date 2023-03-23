@@ -15,7 +15,7 @@
 "ColorBtnCancellBg": "#999999",
 "Cancellable": "true",
 "MessageID": "2",
-"ShowTime": "2",
+"ShowTime": "6",
 "Button": "Join Channel",
 "ButtonCancell": "Cancell",
 "Show": "on"
