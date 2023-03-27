@@ -1,9 +1,9 @@
 {
 "Title": "@Modify_BackUp",
 "Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
-"Link": "tg://resolve?domin=Modify_BackUp",
-"ColorWave": "#F44336",
-"ColorWaveTwo": "#FDD835",
+"Link": "tg://resolve?Domin=Modify_BackUp",
+"ColorWave": "#1e02f2",
+"ColorWaveTwo": "#53ddef",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
