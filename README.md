@@ -1,7 +1,7 @@
 {
 "Title": "@Modify_BackUp",
 "Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
-"Link": "https://t.me/Modify_BackUp/",
+"Link": "https://t.me/ModifyClub",
 "ColorWave": "#14acdf",
 "ColorWaveTwo": "#53ddef",
 "ColorBackGround": "#ffffff",
@@ -14,7 +14,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "99",
+"MessageID": "100",
 "ShowTime": "10",
 "Button": "Join Channel",
 "ButtonCancell": "Cancell",
